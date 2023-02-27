@@ -1,0 +1,5 @@
+--jvm bin/haxefrog.jar
+haxefrog.Haxefrog
+--java-lib-extern lib/Mindustry.jar
+--resource mod.hjson
+--resource sprites/frog.png

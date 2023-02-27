@@ -1,0 +1,12 @@
+name: haxefrog
+displayName: Haxefrog
+subtitle: "Example mod made in Haxe"
+repo: "Weathercold/Haxefrog"
+author: Weathercold
+description: "Do not try to use Haxe at home"
+
+version: 1.0.0-SNAPSHOT
+minGameVersion: 142
+main: haxefrog.Haxefrog
+java: true
+hidden: true
